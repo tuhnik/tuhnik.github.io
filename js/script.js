@@ -1,5 +1,5 @@
 var image = document.createElement("IMG");
-image.src="aardvark.svg";
+image.src="img/aardvark.svg";
 image.setAttribute('class', 'aardvark');
 
 
@@ -36,7 +36,7 @@ var partJson = {
           "nb_sides": 5
         },
         "image": {
-          "src": "sakura.png",
+          "src": "img/sakura.png",
           "width": 100,
           "height": 100
         }
