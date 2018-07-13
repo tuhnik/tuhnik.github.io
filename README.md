@@ -1,6 +1,6 @@
 # tuhnik.github.io
 
-Micro experiment with [particles.js](https://github.com/VincentGarreau/particles.js/)
+Micro experiment with [particles.js](https://github.com/VincentGarreau/particles.js/).
 <br>
 <br>
 <img src="https://github.com/tuhnik/tuhnik.github.io/blob/master/sakura.png" width="15"><br>
