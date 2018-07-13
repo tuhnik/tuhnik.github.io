@@ -2,7 +2,7 @@
 
 Micro experiment with [particles.js](https://github.com/VincentGarreau/particles.js/)
 
-Live version [tuhnik.github.io](https://tuhnik.github.io/)
+Live version: [tuhnik.github.io](https://tuhnik.github.io/)
 <br>
 <br>
 <img src="https://github.com/tuhnik/tuhnik.github.io/blob/master/sakura.png" width="15"><br>
