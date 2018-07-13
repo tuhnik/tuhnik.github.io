@@ -1,7 +1,7 @@
 var image = document.createElement("IMG");
 image.src="aardvark.svg";
 image.setAttribute('class', 'aardvark');
-$("body").html(image);
+// $("body").html(image);
 
 
 $( document ).ready(()=>{
