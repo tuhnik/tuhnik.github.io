@@ -1,4 +1,4 @@
-var image = document.createElement("IMG");
+var image = document.createElement("svg");
 image.src="aardvark.svg";
 image.setAttribute('class', 'aardvark');
 
