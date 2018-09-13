@@ -12,4 +12,4 @@
 Right clicking travels through various hints about current time. For more comprehensive explanation please read the [wikipedia article](https://en.wikipedia.org/wiki/Binary_clock).
 
 ## Live version
-[tuhnik.github.io/bin-clock](https://tuhnik.github.io/bin-clock/)\
+[tuhnik.github.io/bin-clock](https://tuhnik.github.io/bin-clock/)
