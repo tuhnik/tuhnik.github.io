@@ -1,0 +1,53 @@
+* {
+    user-select: none;
+}
+html {
+    height: 100%;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+    background: #d8dcd2;
+    margin: 0;
+}
+#clock {
+    display: flex;
+}
+.item {
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    margin: 10px 5px;
+    background-color: #c6cac0;
+}
+.lit {
+    background-color: #292d23;
+    transition : 500ms ease-in;
+}
+.col:nth-child(1) .item:nth-child(-n+2), .col:nth-of-type(2n+3) .item:nth-child(1) {
+    visibility: hidden;
+}
+#help {
+    display: flex;
+}
+#help .item {
+    background-color: unset;
+    color: #c6cac0;
+    font-size: 100px;
+    line-height: 0.7;
+    font-family: monospace;
+    text-align: center;
+}
+.item p {
+    margin: 0;
+    background-color: unset;
+    color: #c6cac0;
+    font-size: 100px;
+    line-height: 1;
+    font-family: monospace;
+    text-align: center;
+    display: none;
+}
