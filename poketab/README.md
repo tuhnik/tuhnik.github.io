@@ -6,5 +6,5 @@ Wallpaper size will always be set to users current resolution.
 <br>
 
 
-## Live version
+## Live demo version
 [tuhnik.github.io/poketab](https://tuhnik.github.io/poketab/)
