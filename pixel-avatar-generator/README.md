@@ -1,4 +1,4 @@
-# Pixel-art style avatar generator
+# Pixel-art avatar generator
 
 <br>
 <p float="left">
