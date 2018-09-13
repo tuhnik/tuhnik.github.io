@@ -1,0 +1,33 @@
+html, body {
+    height: 100%;
+
+}
+body {
+  display: flex;
+}
+
+.panel {
+  
+  margin: auto !important;
+  display: flex;
+  flex-direction:column;
+}
+
+.panel-body {
+display: flex;
+
+justify-content: space-between;
+align-items: center;
+}
+
+
+
+.list-group-item:focus, .list-group-item:active {
+  outline: none !important;
+  box-shadow: none !important;  
+}
+
+
+#controls {
+  margin-right: 15px;
+}
