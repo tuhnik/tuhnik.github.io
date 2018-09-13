@@ -1,0 +1,10 @@
+# PokeTab - Google Chrome extension
+
+<br>
+Random pokemon in every new tab. Gradient backgrounds and a robust wallpaper generator included.
+Wallpaper size will always be set to users current resolution.
+<br>
+
+
+## Live version
+[tuhnik.github.io/poketab](https://tuhnik.github.io/poketab/)
