@@ -7,7 +7,7 @@ Wallpaper size will always be set to users current resolution.
 
 
 ## Live demo version
-Mouse wheel event generates a new PokeTab.
+Mouse wheel event generates a new PokeTab.<br>
 [tuhnik.github.io/poketab](https://tuhnik.github.io/poketab/)
 
 ## Chrome extension webstore link
