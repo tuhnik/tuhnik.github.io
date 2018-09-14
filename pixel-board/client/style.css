@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    background-color: #607D8B
+}
+
+canvas {
+    background-color: #ffffff;
+}
+
+#canvas {
+     cursor: none;
+}
+
+#colbox {
+    margin: 20px;
+}
+
+
