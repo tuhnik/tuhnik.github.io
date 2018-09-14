@@ -10,8 +10,6 @@
 | Particles.js test drive | [live](https://tuhnik.github.io/particles/) | [code](https://github.com/tuhnik/tuhnik.github.io/tree/master/particles) |
 | Realistic prison simulator | [live](https://tuhnik.github.io/prison-simulator/) | [code](https://github.com/tuhnik/tuhnik.github.io/tree/master/prison-simulator) |
 
-<br>
-
 | Websites | |
 |---|---|
 | Tartu Taaskasutuskeskus| [live](http://taaskasutuskeskus.ee/) | 
