@@ -4,41 +4,7 @@ c.height = 440
 let offset = 20
 let ctx = c.getContext("2d")
 ctx.imageSmoothingEnabled= false
-// let colors = ["#F4442E","#35b75a", "#f9c320", "#3F8EFC", "#FAC9B8", "#444054", "#F4442E", "#EDD382", "#BDD358"]
-// let color1 = getRandomFromArray(colors)
-// let color2 = getRandomFromArray(colors)
-// while(color1 == color2){
-//     color2 = getRandomFromArray(colors)
-// }
-// function getRandomFromArray(arr){
-//     return arr[Math.floor(Math.random()*arr.length)]
-// }
-// ctx.fillStyle = color1
-// ctx.fillRect(0, 0, c.width, c.height);
-// let map = [[0, 0, 1, 0, 0],
-//           [1, 0, 1, 0, 1],
-//           [0, 1, 0, 1, 0],
-//           [1, 0, 1, 0, 1],
-//           [0, 0, 1, 0, 0]]
-// function createMap() {
-//     tempmap = []
-//         createRows()
-//         createRows()
-//         createRows()
-//     function createRows() {
-//         let row = []
-//         for(var i = 0; i < 5; i++) {
-//             row.push(Math.round(Math.random()))
-//         }
-//         tempmap.push(row)
-//     }
-//     map[0] = tempmap[0]
-//     map[1] = tempmap[1]
-//     map[2] = tempmap[2]
-//     map[3] = tempmap[1]
-//     map[4] = tempmap[0]
-// }
-//createMap()
+
 Number.prototype.map = function (in_min, in_max, out_min, out_max) {
     return (this - in_min) * (out_max - out_min) / (in_max - in_min) + out_min;
   }
@@ -46,8 +12,8 @@ let input = document.getElementById("input")
 input.addEventListener("keyup", function(ev){
     createMap(input.value)
 })
-createMap("")
-let str = "janar"
+
+
 function createMap(str) {
     let map = []
     //https://flatuicolors.com/palette/es
@@ -105,3 +71,5 @@ function split(arr, howMany) {
     }
     return newArr
 }
+
+createMap("")
