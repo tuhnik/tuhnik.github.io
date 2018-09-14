@@ -1,6 +1,5 @@
 # tuhnik.github.io
-Github-style hash-based identicon generator. Do not use personal data for generation, since identicons can be reversed to text strings.
-Powered by [bulma.io](https://bulma.io/).
+Github-style hash-based identicon generator. Demo powered by [bulma.io](https://bulma.io/). Never use personal data for generation, since identicons can be reversed to text strings.
 <br>
 <br>
 <img src="https://github.com/tuhnik/tuhnik.github.io/blob/master/identicon/img/1.png" width="75">
