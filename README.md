@@ -9,6 +9,6 @@
 | PokeTab (Chrome extension) | [live](https://tuhnik.github.io/poketab/) | [code](https://github.com/tuhnik/tuhnik.github.io/tree/master/poketab) |
 | Particles.js test drive | [live](https://tuhnik.github.io/particles/) | [code](https://github.com/tuhnik/tuhnik.github.io/tree/master/particles) |
 
-| Websites | | |
-|---|---|---|
-| Tartu Taaskasutuskeskus| [live](http://taaskasutuskeskus.ee/) | |
+| Websites | |
+|---|---|
+| Tartu Taaskasutuskeskus| [live](http://taaskasutuskeskus.ee/) | 
