@@ -1,5 +1,5 @@
 # Weather-chips
-Attempt to recreate [materialize](https://materializecss.com/)-style chips and input. Type city name and press Enter. In case of location not found enjoy jQuery shake animation.
+Attempt to recreate [materialize](https://materializecss.com/)-style chips and input. Type city name and press Enter. In case of location not found enjoy shake animation. Watch out for audio levels when closing chips.
 <br>
 <img src="https://github.com/tuhnik/tuhnik.github.io/blob/master/weather-chips/screenshots/1.PNG">
 <br>
