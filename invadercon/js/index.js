@@ -46,7 +46,7 @@ function drawMap(map, shipPos) {
       cctr+=1
       if (map[i][j] < 8) {
         ctx.imageSmoothingEnabled = false
-        ctx.drawImage(invaders[map[i][j]], j * sWH + offset + cctr, i * sWH + offset, sWH, sWH)
+        ctx.drawImage(invaders[map[i][j]], j * sWH + offset + cctr, i * sWH + offset, sWH - 5, sWH)
       }
     });
   });
