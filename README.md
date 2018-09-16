@@ -4,6 +4,7 @@
 | Some random front-end js coding experiments | | |
 |---|---|---|
 | Identicon generator | [live](https://tuhnik.github.io/identicon/) | [code](https://github.com/tuhnik/tuhnik.github.io/tree/master/identicon) |
+| Invadercon generator | [live](https://tuhnik.github.io/invadercon/) | [code](https://github.com/tuhnik/tuhnik.github.io/tree/master/invadercon) |
 | Weather-chips | [live](https://tuhnik.github.io/weather-chips) | [code](https://github.com/tuhnik/tuhnik.github.io/tree/master/weather-chips) |
 | Binary clock | [live](https://tuhnik.github.io/bin-clock/) | [code](https://github.com/tuhnik/tuhnik.github.io/tree/master/bin-clock) |
 | Pixel-art avatar generator | [live](https://tuhnik.github.io/pixel-avatar-generator/) | [code](https://github.com/tuhnik/tuhnik.github.io/tree/master/pixel-avatar-generator) |
