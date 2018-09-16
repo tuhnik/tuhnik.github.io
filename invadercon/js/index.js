@@ -41,10 +41,12 @@ function drawMap(map, shipPos) {
   clearCanvas();
   ctx.fillStyle = "#000";
   map.forEach((row, i) => {
+    let cctr = 0
     row.forEach((col, j) => {
+      cctr+=1
       if (map[i][j] < 8) {
         ctx.imageSmoothingEnabled = false
-        ctx.drawImage(invaders[map[i][j]], j * sWH + offset + 1, i * sWH + offset + 1, sWH, sWH)
+        ctx.drawImage(invaders[map[i][j]], j * sWH + offset + cctr, i * sWH + offset, sWH, sWH)
       }
     });
   });
@@ -62,7 +64,7 @@ function createAndDraw(string) {
   const arr3 = convertHash(string).splice(10, 5)
   const arr4 = convertHash(string).splice(15, 5)
   const arr5 = convertHash(string).splice(20, 5)
-  var total = 0;
+  let total = 0;
   for (var i in arr5) {
     total += arr5[i];
   }
