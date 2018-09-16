@@ -8,8 +8,8 @@ c.height = 440;
 c.width = 440;
 let invaders = []
 function preloadImages(urls,  callback) {
-  var loadedCounter = 0;
-  var toBeLoadedNumber = urls.length;
+  let loadedCounter = 0;
+  let toBeLoadedNumber = urls.length;
   urls.forEach(function (url) {
     preloadImage(url, function () {
       loadedCounter++;
@@ -19,7 +19,7 @@ function preloadImages(urls,  callback) {
     });
   });
   function preloadImage(url, anImageLoadedCallback) {
-    var img = new Image();
+    let img = new Image();
     img.src = "img/" + url;
     img.onload = anImageLoadedCallback;
     invaders.push(img)
@@ -66,7 +66,7 @@ function createAndDraw(string) {
   const arr4 = convertHash(string).splice(15, 5)
   const arr5 = convertHash(string).splice(20, 5)
   let total = 0;
-  for (var i in arr5) {
+  for (let i in arr5) {
     total += arr5[i];
   }
   drawMap([arr1, arr2, arr3, arr4], Math.abs(Math.floor(total.map(15, 75, 0, 6))))
