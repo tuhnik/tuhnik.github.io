@@ -1,6 +1,13 @@
-# Invadercon
-Space Invaders style hash-based (MD5) identicon generator. Demo powered by [bulma.io](https://bulma.io/). Never use personal data for generation, since identicons can be reversed to text strings.
+# tuhnik.github.io
+Github-style hash-based identicon generator. Demo powered by [bulma.io](https://bulma.io/). Never use personal data for generation, since identicons can be reversed to text strings.
 <br>
+<br>
+<img src="https://github.com/tuhnik/tuhnik.github.io/blob/master/identicon/img/1.png" width="75">
+<img src="https://github.com/tuhnik/tuhnik.github.io/blob/master/identicon/img/2.png" width="75">
+<img src="https://github.com/tuhnik/tuhnik.github.io/blob/master/identicon/img/3.png" width="75">
+<img src="https://github.com/tuhnik/tuhnik.github.io/blob/master/identicon/img/4.png" width="75">
+<img src="https://github.com/tuhnik/tuhnik.github.io/blob/master/identicon/img/5.png" width="75">
+<br>
+<br>
+Live version: [tuhnik.github.io/identicon](https://tuhnik.github.io/identicon/)
 
-# Live version
-[tuhnik.github.io/invadercon](https://tuhnik.github.io/invadercon/)
