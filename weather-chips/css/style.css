@@ -53,10 +53,12 @@ html, body {
    width: 300px !important;
    background-color: transparent;
    border: none;
-   border-bottom: 1px solid #9e9e9e; 
+   border-bottom: 1px solid #9e9e9e;
 }
 
-
+.input::placeholder {
+  color: #eaeaea;
+}
 .input:focus{
    border-bottom: 1px solid #26a69a;
    -webkit-box-shadow: 0 1px 0 0 #26a69a;
@@ -82,13 +84,13 @@ body {
    align-items: center;
    margin: 200px auto;
    width: 700px;
-  
+
 }
 
 #data {
- 
+
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
- 
+
 }
