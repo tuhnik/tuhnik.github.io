@@ -12,4 +12,4 @@ let sockets = require('./app')(app, server);
 app.use('/', express.static(__dirname+'/client'));
 ```
 ## Live version
-[leib.duckdns.org](http://leib.duckdns.org/pix)
+[leib.duckdns.org](https://leib.duckdns.org/pix)
