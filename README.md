@@ -1,5 +1,3 @@
-
-<p align="center">
 # tuhnik.github.io
 <img src="https://github.com/tuhnik/tuhnik.github.io/blob/master/identicon/img/img.png?raw=true" height="50">
 
@@ -23,4 +21,3 @@
 | Websites | |
 |---|---|
 | Tartu Taaskasutuskeskus| [live](http://taaskasutuskeskus.ee/) |
-</p>
